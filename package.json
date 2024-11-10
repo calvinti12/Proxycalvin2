@@ -1,0 +1,11 @@
+{
+  "name": "switchyomega-tests",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "devDependencies": {
+    "puppeteer": "^19.0.0",
+    "chrome-launcher": "^0.15.0"
+  }
+} 
